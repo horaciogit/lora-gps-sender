@@ -2,7 +2,7 @@
 /* 
  *  
  *  
-INSTALAR LIBRERIA TinyGPSPlus
+INSTALAR LIBRERIA TinyGPSPlus en ek ide arduino
 
 */
 
